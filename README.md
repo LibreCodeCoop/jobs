@@ -1,4 +1,4 @@
-# Join LibreCode
+# Faça parte da LibreCode
 
 <img src="assets/logo.png" width="150px"/>
 
@@ -7,9 +7,9 @@ A LibreCode é uma cooperativa de devs de software livre em busca de uma forma d
 ## Local de trabalho
 :house: `0.0.0.0` ou `127.0.0.1`
 
-## Forma de contratação
+## Forma de adesão
 
-Veja [aqui](docs/forma-contratacao.md) a formas de contratação
+Veja [aqui](docs/forma-contratacao.md) como é a forma de adesão à cooperativa.
 
 ## Benefícios
 
