@@ -7,7 +7,7 @@
 * Atuar na atividade fim da cooperativa
 * Não ser sócio em empresa na atividade fim da LibreCode
 * Ter tempo para atuar em tempo integral pela LibreCode
-* Dar uma olhada nos [materiais de apoio](docs/materiais-de-apoio.md)
+* Dar uma olhada nos [materiais de apoio](materiais-de-apoio.md)
 * Estar de acordo com nossa
   * Missão
     > Colaborar para a construção de uma economia solidária por meio do cooperativismo, democratizando a tecnologia da informação, a segurança e a privacidade de dados com software livre.
