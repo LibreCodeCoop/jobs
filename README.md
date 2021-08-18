@@ -5,15 +5,15 @@
 A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
 
 ## Local de trabalho
-* 🏘 `0.0.0.0` ou `127.0.0.1`
+🏘 `0.0.0.0` ou `127.0.0.1`
 
 ## Forma de contratação
 
-* Veja [aqui](docs/forma-contratacao.md) a formas de contratação
+Veja [aqui](docs/forma-contratacao.md) a formas de contratação
 
 ## Benefícios
 
-* Veja [aqui](docs/beneficios.md) os benefícios
+Veja [aqui](docs/beneficios.md) os benefícios
 
 ## Pré-requisitos
 
