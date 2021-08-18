@@ -12,3 +12,5 @@
 ## Como candidatar-se?
 * Interaja nos projetos da LibreCode no [GitHub](https://github.com/LibreCodeCoop) ou no [GitLab](https://gitlab.com/LibreCodeCoop)
 * dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
+
+[🔙 Voltar para a home](../README.md)

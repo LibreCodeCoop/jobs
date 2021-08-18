@@ -7,3 +7,5 @@
 
 ## Como candidatar-se?
 Dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
+
+[🔙 Voltar para a home](../README.md)
