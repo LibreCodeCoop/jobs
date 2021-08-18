@@ -1,11 +1,8 @@
 # Join LibreCode
 
-<table border="0">
-<tr>
-<td><img src="assets/logo.png" heigh="100px"/></td>
-<td>A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.</td>
-</tr>
-</table>
+<img src="assets/logo.png" width="150px"/>
+
+A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
 
 ## Local de trabalho
 * 🏘 `0.0.0.0` ou `127.0.0.1`
