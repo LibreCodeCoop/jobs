@@ -23,6 +23,5 @@ Veja [aqui](docs/pre-requisitos.md) os pré-requisitos
 
 ## Como se candidatar
 
-* Interaja nos projetos da LibreCode no [GitHub](https://github.com/LibreCodeCoop) ou no [GitLab](https://gitlab.com/LibreCodeCoop)
 * Atender os pré-requisitos
 * Dar um oi em nosso grupo público informando que tem interesse em fazer parte do time
