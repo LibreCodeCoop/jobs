@@ -23,5 +23,5 @@ Veja [aqui](docs/pre-requisitos.md) os pré-requisitos
 
 ## Como se candidatar
 
-* Atender os pré-requisitos
+* Atender aos [pré-requisitos](docs/pre-requisitos.md)
 * Dar um oi em nosso grupo público informando que tem interesse em fazer parte do time
