@@ -1,6 +1,12 @@
 ## Requisitos
 * Utilizar e compreender os valores do software livre
-* Linux, JavaScript, VueJS
+* Tecnologias
+  * Linux
+  * JavaScript
+  * Docker
+  * VueJS
+  * webpack
+* Conhecimento e interesse em UX / UI
 * Habilidades com análise e gestão de projetos
 * Qualidade de software (CI/CD)
 
