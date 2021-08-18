@@ -1,5 +1,7 @@
 # Join LibreCode
 
+A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
+
 ## Local de trabalho
 * 🏘 `0.0.0.0` ou `127.0.0.1`
 
