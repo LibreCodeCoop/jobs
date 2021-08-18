@@ -28,3 +28,7 @@ Veja [aqui](docs/pre-requisitos.md) os pré-requisitos
 * ⭐️ Dê estrelinhas neste e em outros repos da LibreCode que curtir
 * ✅ Atender aos [pré-requisitos](docs/pre-requisitos.md)
 * ✍️ Dar um oi em nosso [grupo público](https://t.me/LibreCodeCoop) informando que tem interesse em fazer parte do time
+
+## Conheça mais sobre nós
+
+[![Site](https://img.shields.io/badge/Site-0077B5?style=for-the-badge&logo=Site&logoColor=white&style=flat-square)](https://librecode.coop/) [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white&style=flat-square)](https://t.me/LibreCodeCoop/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/company/librecode/) [![LinkedIn](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLibreCodeCoop)](https://twitter.com/LibreCodeCoop)
