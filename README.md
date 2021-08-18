@@ -1,7 +1,7 @@
 # Join LibreCode
 
 ## Local de trabalho
-* `0.0.0.0` ou `127.0.0.1`
+* 🏘 `0.0.0.0` ou `127.0.0.1`
 
 ## Forma de contratação
 
