@@ -1,8 +1,8 @@
 # Join LibreCode
 
-<table>
+<table border="0">
 <tr>
-<td><img src="assets/logo.png" heigh="150px"/></td>
+<td><img src="assets/logo.png" heigh="100px"/></td>
 <td>A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.</td>
 </tr>
 </table>
