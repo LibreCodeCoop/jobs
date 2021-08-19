@@ -1,6 +1,6 @@
 # Faça parte da LibreCode
 
-<img src="assets/logo.png" width="150px"/>
+[<img src="assets/logo.png" width="150px"/>](https://librecode.coop)
 
 A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
 
