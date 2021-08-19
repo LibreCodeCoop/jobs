@@ -1,6 +1,7 @@
 ## Requisitos
 * Utilizar e compreender os valores do software livre
 * Conhecimentos de sysadmin Linux
+* Docker
 
 ## Tipos de trabalhos a executar
 * Administração de infrasestutura da LibreCode e de clientes
