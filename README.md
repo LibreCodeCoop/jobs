@@ -2,7 +2,7 @@
 
 [<img src="assets/logo.png" width="150px"/>](https://librecode.coop)
 
-A LibreCode é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
+A [LibreCode](https://librecode.coop) é uma cooperativa de devs de software livre em busca de uma forma de trabalhar diferente das que já experimentamos no mundo corporativo.
 
 ## Local de trabalho
 :house: `0.0.0.0` ou `127.0.0.1`
@@ -13,11 +13,11 @@ Veja [aqui](docs/forma-contratacao.md) como é a forma de adesão à cooperativa
 
 ## Benefícios
 
-Veja [aqui](docs/beneficios.md) os benefícios
+Veja [aqui](docs/beneficios.md) os benefícios.
 
 ## Pré-requisitos
 
-Veja [aqui](docs/pre-requisitos.md) os pré-requisitos
+Veja [aqui](docs/pre-requisitos.md) os pré-requisitos.
 
 ## Oportunidades
 * Desenvolvimento
