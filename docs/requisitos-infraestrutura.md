@@ -7,6 +7,6 @@
 * Administração de infrasestutura da LibreCode e de clientes
 
 ## Como candidatar-se?
-Dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
+* Dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
 
 [🔙 Voltar para a home](../README.md)
