@@ -12,7 +12,7 @@
     > https://libreflix.org/i/the-code
 * Cursos
   * Faça cadastro no site https://www.capacita.coop.br 
-    * Informe a cooperativa Lyseon Tech ou LibreCode (a que tiver, os 2 nomes somos nós)
+    * Selecione "não se aplica" no campo inscrição - quando solicitado a cooperativa.
   * Cursos recomendados
     * Nacionais
       * Cooperativismo - Primeiras lições
