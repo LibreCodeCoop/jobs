@@ -20,7 +20,7 @@ Veja [aqui](docs/beneficios.md) os benefícios.
 Veja [aqui](docs/pre-requisitos.md) os pré-requisitos.
 
 ## Oportunidades
-Veja [aqui](docs/oportunidades.md) as áreas que pode atuar na LibreCode.
+Veja [aqui](docs/oportunidades.md) as áreas para atuação na LibreCode.
 
 ## Como se candidatar
 
