@@ -20,10 +20,7 @@ Veja [aqui](docs/beneficios.md) os benefícios.
 Veja [aqui](docs/pre-requisitos.md) os pré-requisitos.
 
 ## Oportunidades
-* Desenvolvimento
-  * [Backend](docs/requisitos-backend.md)
-  * [Frontend](docs/requisitos-frontend.md)
-* [Infraestrutura](docs/requisitos-infraestrutura.md)
+Veja [aqui](docs/oportunidades.md) as áreas que pode atuar na LibreCode.
 
 ## Como se candidatar
 
