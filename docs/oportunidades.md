@@ -5,8 +5,8 @@ Em uma cooperativa de profissionais de tecnologia que trabalham com software liv
 Segue uma lista das necessidades para o atual time:
 
 * Desenvolvimento
-  * [Backend](docs/requisitos-backend.md)
-  * [Frontend](docs/requisitos-frontend.md)
-* [Infraestrutura](docs/requisitos-infraestrutura.md)
+  * [Backend](requisitos-backend.md)
+  * [Frontend](requisitos-frontend.md)
+* [Infraestrutura](requisitos-infraestrutura.md)
 
 [🔙 Voltar para a home](../README.md)
