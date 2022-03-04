@@ -18,4 +18,6 @@
 ## Como candidatar-se?
 * Instruções na [home](../README.md) deste repositório
 
-[🔙 Voltar para a home](../README.md)
+🔙 Voltar para:
+* [🏘 Home](../README.md)
+* [💼 Lista de oportunidades](https://github.com/LibreCodeCoop/jobs/blob/main/docs/oportunidades.md)
