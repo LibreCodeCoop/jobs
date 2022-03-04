@@ -5,7 +5,7 @@
   * [LEI Nº 12.690, DE 19 DE JULHO DE 2012](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2012/Lei/L12690.htm)
 * Conhecer e aceitar os termos de nosso [Estatuto](https://gitlab.com/librecodecoop/estatuto) e [Regimento Interno](https://gitlab.com/librecodecoop/regimento-interno)
 * Atuar na atividade fim da cooperativa
-* Não ser sócio em empresa na atividade fim da LibreCode
+* Não atuar como sócio em empresa na atividade fim da LibreCode
 * Ter tempo para atuar em tempo integral pela LibreCode
 * Dar uma olhada nos [materiais de apoio](materiais-de-apoio.md)
 * Estar de acordo com nossa
