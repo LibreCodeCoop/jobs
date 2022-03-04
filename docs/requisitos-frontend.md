@@ -16,7 +16,6 @@
 * Projetar e implementar frontend para aplicações web diversas
 
 ## Como candidatar-se?
-* Interaja nos projetos da LibreCode no [GitHub](https://github.com/LibreCodeCoop) ou no [GitLab](https://gitlab.com/LibreCodeCoop)
-* Dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
+* Instruções na [home](../README.md) deste repositório
 
 [🔙 Voltar para a home](../README.md)
