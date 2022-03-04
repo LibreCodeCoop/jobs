@@ -20,6 +20,7 @@ A [LibreCode](https://librecode.coop) é uma cooperativa de devs de software liv
 * :star: Dê estrelinhas neste e em outros repos da LibreCode que curtir
 * :heavy_check_mark: Atender aos [pré-requisitos](docs/pre-requisitos.md)
 * :wave: Dar um oi em nosso [grupo público](https://t.me/LibreCodeCoop) informando que tem interesse em fazer parte do time
+* :heavy_check_mark: Submeter [proposta de admissão](https://ls.librecode.coop/index.php?r=survey/index&sid=154438&lang=pt-BR)
 
 ## Conheça mais sobre nós
 
