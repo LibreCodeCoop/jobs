@@ -10,7 +10,8 @@
 * Projetar e implementar aplicações web diversas (principalmente PHP)
 
 ## Como candidatar-se?
-* Interaja nos projetos da LibreCode no [GitHub](https://github.com/LibreCodeCoop) ou no [GitLab](https://gitlab.com/LibreCodeCoop)
-* dê um oi no nosso [grupo do Telegram](https://t.me/LibreCodeCoop)
+* Instruções na [home](../README.md) deste repositório
 
-[🔙 Voltar para a home](../README.md)
+🔙 Voltar para:
+* [🏘 Home](../README.md)
+* [💼 Lista de oportunidades](https://github.com/LibreCodeCoop/jobs/blob/main/docs/oportunidades.md)
