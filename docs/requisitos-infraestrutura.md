@@ -1,7 +1,6 @@
 ## Requisitos
 * Utilizar e compreender os valores do software livre
 * Conhecimentos de sysadmin Linux
-* Automação de processos de infra
 * Docker
 
 ## Diferenciais
@@ -10,6 +9,8 @@
 
 ## Tipos de trabalhos a executar
 * Administração de infrasestutura da LibreCode e de clientes
+* Automação de processos de infra
+* Auxiliar no suporte a clientes
 
 ## Como candidatar-se?
 * Instruções na [home](../README.md) deste repositório
