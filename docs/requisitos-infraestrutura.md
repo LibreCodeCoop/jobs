@@ -8,7 +8,7 @@
 * Noções de programação
 
 ## Tipos de trabalhos a executar
-* Administração de infrasestutura da LibreCode e de clientes
+* Administração de infraestrutura da LibreCode e de clientes
 * Automação de processos de infra
 * Auxiliar no suporte a clientes
 
