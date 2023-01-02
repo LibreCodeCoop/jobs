@@ -6,7 +6,6 @@
 * Conhecer e aceitar os termos de nosso [Estatuto](https://gitlab.com/librecodecoop/estatuto) e [Regimento Interno](https://gitlab.com/librecodecoop/regimento-interno)
 * Atuar na atividade fim da cooperativa
 * Não atuar como sócio em empresa na atividade fim da LibreCode
-* Ter tempo para atuar em tempo integral pela LibreCode
 * Dar uma olhada nos [materiais de apoio](materiais-de-apoio.md)
 * Estar de acordo com nossa
   * Missão
