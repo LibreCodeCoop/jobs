@@ -13,7 +13,7 @@ A [LibreCode](https://librecode.coop) é uma cooperativa de devs de software liv
 
 ## [Pré-requisitos](docs/pre-requisitos.md)
 
-## [Oportunidades](docs/oportunidades.md)
+## [Área de atuação](docs/area-de-atuacao.md)
 
 ## Como se candidatar
 
