@@ -13,7 +13,7 @@
 * Cursos
   * Faça cadastro no site https://www.capacita.coop.br 
     * Selecione "não se aplica" no campo inscrição - quando solicitado a cooperativa.
-  * Cursos recomendados
+  * Cursos obrigatórios
     * Nacionais
       * Cooperativismo - Primeiras lições
       * Entendendo a sociedade cooperativa
