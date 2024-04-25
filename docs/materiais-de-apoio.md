@@ -1,7 +1,9 @@
 ## Materiais de apoio recomendados
 
 * História de como surgiu o cooperativismo:
-  > https://www.youtube.com/watch?v=L-oXL6g00Og
+  > Os Pioneiros de Rochdale [legendado] https://www.youtube.com/watch?v=L-oXL6g00Og
+  
+  > A short animation about the story of the Rochdale pioneers [english only] https://youtu.be/DNVzOsZt6ew?si=UBEx3NwQav_lPzSX
 
 * Documentários
   * Acesso a internet e outras coisas
@@ -10,13 +12,5 @@
     > https://libreflix.org/i/revolution-os
     > 
     > https://libreflix.org/i/the-code
-* Cursos
-  * Faça cadastro no site https://www.capacita.coop.br 
-    * Selecione "não se aplica" no campo inscrição - quando solicitado a cooperativa.
-  * Cursos obrigatórios
-    * Nacionais
-      * Cooperativismo - Primeiras lições
-      * Entendendo a sociedade cooperativa
-  * Ao concluir os cursos, envie em nosso grupo o comprovante de conclusão
 
 [🔙 Voltar para a home](../README.md)
